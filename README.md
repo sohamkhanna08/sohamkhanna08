@@ -12,6 +12,7 @@
 -🔭 I’m currently learning - Full Stack Development <br>-👯 I’m looking to collaborate on - Open Source Projects<br>-🌐Connect with me- sohamkhanna08@gmail.com<br> 
  
 ## 🌐 Socials:
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230077B5.svg?logo=linkedin&logoColor=white)](https://dev.to/sohamkhanna) 
 <a href="https://linkedin.com/in/sohamkhanna">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:100px; height:auto;">
 </a> <br>
