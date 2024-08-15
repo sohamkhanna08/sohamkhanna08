@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/sohamkhanna">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:100px; height:auto;">
-</a> <br>
+</a> 
 <a href="https://dev.to/sohamkhanna">
   <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=devdotto&logoColor=white" alt="Dev.to" style="width:100px; height:auto;">
 </a>
