@@ -36,7 +36,7 @@
       <img src="https://img.icons8.com/color/48/000000/conference.png" width="40"/>
     </td>
     <td>
-      <b>Hackathon Adjudicator with NYU</b>: Collaborated with NYU and GDG USAR to evaluate 40+ student projects across 5 technical datasets, provided structured feedback to 120+ participants.
+      <b>Hackathon Adjudicator with NYU</b>: Collaborated with New York University and GDG USAR to evaluate 40+ student projects across 5 technical datasets, provided structured feedback to 120+ participants.
     </td>
   </tr>
 </table>
