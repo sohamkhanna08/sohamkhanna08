@@ -12,7 +12,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-> *Results-oriented IIoT and AI Engineering student with a proven record of delivering real-world, scalable technical solutions. Specializing in machine learning, web development, and System design, I bring innovation backed by academic excellence and expertise in my field.*
+> *Results-oriented IIoT and AI Engineering student with a proven record of delivering real-world, scalable technical solutions. Specializing in Machine learning, Web development, and System design, I bring innovation backed by academic excellence and expertise in my field.*
 
 - 🎓 B.Tech. Industrial Internet of Things (2023-2027) at GGSIP University, USAR
 - 🏆 Deep Learning Research Intern at Defence Research and Development Organisation (DRDO)
