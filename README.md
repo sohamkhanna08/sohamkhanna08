@@ -84,8 +84,8 @@
       <img src="https://img.icons8.com/color/48/000000/dashboard.png" width="40"/>
     </td>
     <td>
-      <b>Web Development Coordinator, Google Developers Group GGSIPU EDC</b><br>
-      Organized technical events including TechWinterBreak workshops with 120+ participants. Co-organized inter-college hackathon with NYU professor drawing 100+ participants.
+      <b>Web Development Coordinator, Google Developer Group GGSIPU EDC</b><br>
+      Organized technical events including Google's Tech Winter Break workshops with 120+ participants. Co-organized inter-college hackathon with NYU professor drawing 100+ participants.
     </td>
   </tr>
 </table>
