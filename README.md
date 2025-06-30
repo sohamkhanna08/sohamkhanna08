@@ -19,24 +19,25 @@
 - 🔍 Currently working on: **Network Intrusion Detection**
 - 🌱 Exploring advanced ML model deployment and cloud computing
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Key Achievements
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Experience & Leadership
 
 <table>
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/prize.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/internship.png" width="40"/>
     </td>
     <td>
-      <b>Top-Ranked IIoT Student </b>: Secured 1st Rank as the Branch Topper in Industrial Internet of Things for Semester 3 at GGSIPU EDC
+      <b>Deep Learning Research Intern, Defence Research and Development Organisation (DRDO) </b><br>
+      Contributing to the development and optimization of deep learning models for strategic defense applications, focusing on pattern recognition, anomaly detection, and secure AI systems under the Scientific Analysis Group at DRDO.
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/conference.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/dashboard.png" width="40"/>
     </td>
     <td>
-      <b>Hackathon Adjudicator with NYU</b>: Collaborated with New York University and GDG USAR to evaluate 40+ student projects across 5 technical datasets, provided structured feedback to 120+ participants.
+      <b>Web Development Coordinator, Google Developer Group GGSIPU EDC</b><br>
+      Organized technical events including Google's Tech Winter Break workshops with 120+ participants. Co-organized inter-college hackathon with NYU professor drawing 100+ participants.
     </td>
   </tr>
 </table>
@@ -67,28 +68,27 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Experience & Leadership
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Key Achievements
 
 <table>
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/internship.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/prize.png" width="40"/>
     </td>
     <td>
-      <b>Research Intern, Defence Research and Development Organisation (DRDO) </b><br>
-      Contributing to the development and optimization of deep learning models for strategic defense applications, focusing on pattern recognition, anomaly detection, and secure AI systems under the Scientific Analysis Group at DRDO.
+      <b>Top-Ranked IIoT Student </b>: Secured 1st Rank as the Branch Topper in Industrial Internet of Things for Semester 3 at GGSIPU EDC
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/dashboard.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/000000/conference.png" width="40"/>
     </td>
     <td>
-      <b>Web Development Coordinator, Google Developer Group GGSIPU EDC</b><br>
-      Organized technical events including Google's Tech Winter Break workshops with 120+ participants. Co-organized inter-college hackathon with NYU professor drawing 100+ participants.
+      <b>Hackathon Adjudicator with NYU</b>: Collaborated with New York University and GDG USAR to evaluate 40+ student projects across 5 technical datasets, provided structured feedback to 120+ participants.
     </td>
   </tr>
 </table>
+
 
 ## 📈 GitHub Stats
 
