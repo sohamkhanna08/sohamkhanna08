@@ -27,7 +27,7 @@
       <img src="https://img.icons8.com/color/48/000000/internship.png" width="40"/>
     </td>
     <td>
-      <b>Deep Learning Research Intern, Defence Research and Development Organisation (DRDO) </b><br>
+      <b>Deep Learning Intern, Defence Research and Development Organisation (DRDO) </b><br>
       Contributing to the development and optimization of deep learning models for strategic defense applications, focusing on pattern recognition, anomaly detection, and secure AI systems under the Scientific Analysis Group at DRDO.
     </td>
   </tr>
