@@ -15,8 +15,9 @@
 > *Results-oriented IIoT and AI Engineering student with a proven record of delivering real-world, scalable technical solutions. Specializing in Machine learning, Web development, and System design, I bring innovation backed by academic excellence and expertise in my field.*
 
 - 🎓 B.Tech. Industrial Internet of Things (2023-2027) at GGSIP University, USAR
-- 🏆 Deep Learning Research Intern at Defence Research and Development Organisation (DRDO)
-- 🔍 Currently working on: **Network Intrusion Detection**
+- 📚 Selected for Amazon ML Summer School 2025 (Top 3,000 out of 85,000+ applicants)
+- 🏆 Ex-Deep Learning Research Intern at Defence Research and Development Organisation (DRDO)
+- 🔍 Currently working on: Real-world software solutions
 - 🌱 Exploring advanced ML model deployment and cloud computing
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Experience & Leadership
