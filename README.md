@@ -81,6 +81,14 @@
   </tr>
   <tr>
     <td>
+      <img src="https://img.icons8.com/color/48/000000/medal.png" width="40"/>
+    </td>
+    <td>
+      <b>Amazon ML Summer School 2025</b>: Selected among the top 3,000 students nationwide from 85,000+ applicants for an advanced ML curriculum taught by Amazon scientists.
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://img.icons8.com/color/48/000000/conference.png" width="40"/>
     </td>
     <td>
